@@ -1,16 +1,68 @@
-## Hi there 👋
+👋 ¡Hola! Soy Bruno Ramos Mejía
 
-<!--
-**BrunoRamosMejia/BrunoRamosMejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Desarrollador Full Stack con formación en Ingeniería Informática (UBA) y experiencia en la construcción de aplicaciones web modernas, tanto del lado del frontend como del backend. Me encanta crear soluciones limpias, escalables y mantenibles, y tengo un fuerte interés en entornos DevOps y el ecosistema JavaScript/TypeScript.
 
-Here are some ideas to get you started:
+Actualmente estoy finalizando el proyecto final del bootcamp Full Stack de Henry, lo cual refuerza mis conocimientos en tecnologías modernas y buenas prácticas de desarrollo. Además, cuento con experiencia previa en soporte técnico, lo que me da una base sólida para resolver problemas, trabajar con usuarios y entender la infraestructura desde abajo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tecnologías y herramientas
+Frontend
+
+HTML, CSS, JavaScript
+
+React, Redux
+
+TailwindCSS
+
+TypeScript
+
+Backend
+
+Node.js, Express
+
+Flask
+
+NestJS
+
+APIs REST
+
+Bases de datos
+
+PostgreSQL, MySQL, MariaDB
+
+NoSQL
+
+DevOps & Infra
+
+Docker
+
+Kubernetes (nivel introductorio/práctico)
+
+Bash / Linux
+
+Git & GitHub
+
+Postman, Datagrip
+
+🚀 Proyectos destacados
+
+Portfolio Web Personal – Presenta mis proyectos, stack y trayectoria.
+
+Aplicaciones Full Stack con React + Node/Express + PostgreSQL.
+
+Proyectos académicos y de práctica profesional incluyendo APIs, dashboards y microservicios simples.
+(Próximamente sumaré más proyectos de backend y DevOps.)
+
+🎯 Qué estoy buscando
+
+Oportunidades como Desarrollador Full Stack o Backend, y roles que combinen desarrollo con prácticas DevOps. Me interesa trabajar en entornos donde pueda crecer, aportar valor y seguir expandiendo mi stack técnico.
+
+📫 Contacto
+
+🌐 Portfolio: https://brunormdev.netlify.app
+
+💼 LinkedIn: https://www.linkedin.com/in/brunormdev
+
+📧 Email: brunorm04@gmail.com
+
+Gracias por pasar por mi perfil 🚀
+¡Siempre abierto a colaborar o charlar sobre tecnología!
