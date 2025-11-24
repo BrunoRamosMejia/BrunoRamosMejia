@@ -55,8 +55,8 @@ Oportunidades como **Desarrollador Full Stack** o **Backend**, y roles que combi
 
 ## 📫 Contacto
 - 🌐 Portfolio: https://brunormdev.netlify.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/brunormdev  
-- 📧 Email: brunorm04@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nelson-bruno-ramos-mejia
+- 📧 Email: nelson.ramosmejia@gmail.com
 
 ---
 
