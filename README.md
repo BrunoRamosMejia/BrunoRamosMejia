@@ -11,7 +11,8 @@ Actualmente estoy finalizando el proyecto final del **bootcamp Full Stack de Hen
 ### **Frontend**
 - HTML, CSS, JavaScript  
 - React, Redux  
-- TailwindCSS  
+- TailwindCSS
+- Bootstrap
 - TypeScript  
 
 ### **Backend**
@@ -30,6 +31,11 @@ Actualmente estoy finalizando el proyecto final del **bootcamp Full Stack de Hen
 - Bash / Linux  
 - Git & GitHub  
 - Postman, Datagrip
+
+### **Extras**
+- FTP
+- Metodologias Agiles
+- Scrum
 
 ---
 
