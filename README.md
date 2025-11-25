@@ -4,6 +4,9 @@ Soy **Desarrollador Full Stack** con formación en **Ingeniería Informática (U
 
 Actualmente estoy finalizando el proyecto final del **bootcamp Full Stack de Henry**, lo cual refuerza mis conocimientos en tecnologías modernas y buenas prácticas de desarrollo. Además, cuento con experiencia previa en soporte técnico, lo que me da una base sólida para resolver problemas, trabajar con usuarios y entender la infraestructura desde abajo.
 
+## 📍 Ubicacion
+- Buenos Aires, Argentina
+
 ---
 
 ## 🧰 Tecnologías y herramientas
